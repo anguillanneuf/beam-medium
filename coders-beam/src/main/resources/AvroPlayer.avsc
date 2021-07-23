@@ -1,0 +1,18 @@
+{
+  "type":"record",
+  "name":"AvroPlayer",
+  "namespace":"utilities",
+  "doc":"A player.",
+  "fields":[
+    {
+      "name":"name",
+      "type":"string",
+      "doc":"The player name."
+    },
+    {
+      "name":"score",
+      "type":"int",
+      "doc":"The player score."
+    }
+  ]
+}

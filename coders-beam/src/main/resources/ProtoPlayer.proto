@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package utilities;
+
+option java_outer_classname = "ProtoPlayer";
+
+message Player {
+  string name = 1;
+  int32 score = 2;
+}
