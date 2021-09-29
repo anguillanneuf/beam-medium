@@ -1,4 +1,4 @@
-The four examples in this directory are used in "Quick and easy coders for POJOs in Apache Beam" on Medium.
+The four examples in this directory are used in ["Quick and easy coders for POJOs in Apache Beam"](https://medium.com/google-cloud/quick-and-easy-coders-for-pojos-in-your-beam-pipeline-5d8e16994c1f) on Medium.
 
 1. `BrokenPlayerExample`
     ```none
